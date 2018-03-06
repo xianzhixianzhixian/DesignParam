@@ -1,10 +1,10 @@
-/**
- * 装饰模式
- */
-
 package test7;
 
-public class Main {
+/**
+ * 装饰模式
+ * @author 钰丰
+ */
+public class Test7 {
 
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub

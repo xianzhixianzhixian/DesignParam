@@ -1,5 +1,8 @@
 package test3;
 
+/**
+ * 抽象工厂模式
+ */
 public class McDonaldsUser implements IUser{
 
 	@Override

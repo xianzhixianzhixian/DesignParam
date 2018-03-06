@@ -1,10 +1,10 @@
-/**
- * 抽象工厂模式
- */
-
 package test3;
 
-public class Main {
+/**
+ * 鎶借薄宸ュ巶妯″紡
+ * @author 閽颁赴
+ */
+public class Test3 {
 
 	public static void main(String []args)
 	{

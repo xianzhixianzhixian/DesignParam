@@ -1,5 +1,9 @@
 package test1;
 
+/**
+ * µ¥ÀıÄ£Ê½
+ * @author îÚ·á
+ */
 public class AppConfig {
 	
 	private static String ParameterA=null;

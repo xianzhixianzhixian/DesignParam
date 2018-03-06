@@ -1,10 +1,13 @@
 package test1;
 
 import javax.swing.*;
-import java.util.*;
 import java.awt.event.*;
 
-public class test3 extends JFrame implements ActionListener {
+/**
+ * 计算机网络实验
+ * @author 钰丰
+ */
+public class Test1 extends JFrame implements ActionListener {
 	
 	//定义控件
 	private static String text = "";
@@ -16,13 +19,13 @@ public class test3 extends JFrame implements ActionListener {
 	
 	public static void main(String[] args)
 	{
-		test3 test = new test3();
+		Test1 test = new Test1();
 		byte source[] = { (byte) 0x80, 0x00, (byte) 0xfe, (byte) 0x85, 0x3a,
 				0x5f }; // 源地址 本机地址
 		byte dest[] = { (byte) 0x80, 0x00, (byte) 0xff, 0x60, 0x2c, (byte) 0xdc }; // 目的地址
 	}
 	
-	public test3()
+	public Test1()
 	{
 		jp=new JPanel();
 		

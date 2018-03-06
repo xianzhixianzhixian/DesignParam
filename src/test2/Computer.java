@@ -1,5 +1,9 @@
 package test2;
 
+/**
+ * 工厂模式
+ * @author 钰丰
+ */
 public class Computer {
 	
 	public static OEM selectCreate(String computer)

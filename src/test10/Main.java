@@ -1,9 +1,10 @@
-/**
- * 策略模式
- */
-
 package test10;
 
+/**
+ * 策略模式
+ * 不同种类使用不同策略，有多种策略针对不同事物
+ * @author 钰丰
+ */
 public class Main {
 
 	public static void main(String[] args) {

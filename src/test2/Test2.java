@@ -1,10 +1,10 @@
-/**
- * 工厂模式
- */
-
 package test2;
 
-public class Main {
+/**
+ * 工厂模式
+ * @author 钰丰
+ */
+public class Test2 {
 
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub

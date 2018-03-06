@@ -1,10 +1,10 @@
-/**
- * ÊÊÅäÆ÷Ä£Ê½
- */
-
 package test5;
 
-public class Main {
+/**
+ * ÊÊÅäÆ÷Ä£Ê½
+ * @author îÚ·á
+ */
+public class Test5 {
 
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
